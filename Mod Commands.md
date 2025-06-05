@@ -1,9 +1,9 @@
 # Mod Commands
-- [Scene Commands] (#scene-commands)
-- [Words on Screen] (#words-on-screen)
-- [Death Counter] (#death-counter)
-- [Pokemon] (#pokemon)
-- [Raids] (#raids)
+- [Scene Commands](#scene-commands)
+- [Words on Screen](#words-on-screen)
+- [Death Counter](#death-counter)
+- [Pokemon](#pokemon)
+- [Raids](#raids)
 
 > [!NOTE]
 > There will probably be more commands implemented in the future that I will forget to add here, and if that's the case, please remind me whenever you can!
