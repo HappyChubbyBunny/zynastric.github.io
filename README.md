@@ -7,3 +7,6 @@ This GitHub page is where I will post commands and any substantial changes made 
   - [Death Counter](ModCommands.md#death-counter)
   - [Pokemon](ModCommands.md#pokemon)
   - [Raid Messages](ModCommands.md#raid-messages)
+
+> [!IMPORTANT]
+> I plan on sprucing up the documentation slightly, with either emojis or pictures, however it may be a bit before these changes are properly implemented.
