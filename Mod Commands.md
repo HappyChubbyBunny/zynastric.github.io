@@ -3,7 +3,7 @@
 - [Words on Screen](#words-on-screen)
 - [Death Counter](#death-counter)
 - [Pokemon](#pokemon)
-- [Raids](#raids)
+- [Raid Messages](#raid-messages)
 
 > [!NOTE]
 > There will probably be more commands implemented in the future that I will forget to add here, and if that's the case, please remind me whenever you can!
@@ -48,7 +48,7 @@ Mod commands for the on-screen Pokémon- allowing for resetting, fixing, and spa
 | Poke Pause | `!pokePause`, `!pokePause` | Stops Pokémon from spawning in naturally or by chat. |
 | Poke Spawn | `!pokeSpawn`, `!poke-spawn`, `!poke spawn` | Unlike subs, mods can spawn Pokémon **without cooldown**, **_please_ don't spam it too much though**. |
 
-## Raids
+## Raid Messages
 These will summon messages for chat to copy and paste when raiding into another streamer!
 | Command | Alias' | Description |
 | --- | --- | --- |
