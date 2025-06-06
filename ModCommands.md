@@ -34,7 +34,7 @@ These commands will allow you to toggle words that appear on screen as well as w
 These commands allow an overlay to play a short animation of deaths accrued for specific games, as well as allowing the resetting and removing of deaths.
 | Command | Alias' | Description |
 | --- | --- | --- |
-| Current Deaths | !deaths | Shows the number of cumulative deaths in chat. |
+| Current Deaths | `!deaths` | Shows the number of cumulative deaths in chat. |
 | Add Death | `!death+`, `!deathAdd`, `!addDeath` | Adds a single death to the count and plays an animation. |
 | Remove Death | `!death-`, `!deathSub`, `!subDeath` | Subtracts a death from the total, no animation but will show up in chat. |
 | Reset Deaths | `!resetDeaths`, `!resetDeath`, `!deathReset`, `!deathsReset` | Resets the death count for the current game. |
