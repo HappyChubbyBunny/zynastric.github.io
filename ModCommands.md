@@ -4,6 +4,7 @@
 - [Death Counter](#death-counter)
 - [Pokemon](#pokemon)
 - [Raid Messages](#raid-messages)
+- [Tic Tac Toe](#tic-tac-toe)
 
 > [!NOTE]
 > There will probably be more commands implemented in the future that I will forget to add here, and if that's the case, please remind me whenever you can!
