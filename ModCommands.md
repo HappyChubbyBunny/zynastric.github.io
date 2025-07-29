@@ -56,4 +56,14 @@ These will summon messages for chat to copy and paste when raiding into another 
 | Subbed Raid Message | `!raidSub` | Posts the raid message for Subs to copy and paste. |
 
 > [!NOTE]
-> The reason we have two separate commands for followers and subbers is that followers are unable to use specific commands.
+> The reason we have two separate commands for followers and subbers is that followers are unable to use specific emotes that are in the sub raid message.
+
+## Tic Tac Toe
+This new overlay has only one command that allows for mods to end the overlay if the players have stopped playing.
+| Command | Alias | Description |
+| --- | --- | --- |
+| End Game | `!endttt` | End the Current Game in Session. |
+| Leaderboard | `!showLeaderboard` | Shows the leaderboard for Tic Tac Toe |
+
+> [!NOTE]
+> Currently, there is no way to set up a system for the game to have an automatic timer to skip a player's turn when they go afk, sadly.
